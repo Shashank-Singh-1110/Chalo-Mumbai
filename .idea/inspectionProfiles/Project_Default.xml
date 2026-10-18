@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="opencv-python" />
+          <option value="mediapipe" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="tensorflow" />
+          <option value="streamlit" />
+          <option value="scikit-learn" />
+          <option value="matplotlib" />
+          <option value="plotly" />
+          <option value="tqdm" />
+          <option value="Pillow" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
